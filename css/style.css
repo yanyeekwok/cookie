@@ -1,0 +1,26 @@
+*{
+	box-sizing:border-box;
+}
+
+header {
+	font-family: 'Lora', serif;
+
+}
+
+h3 {
+	text-transform: uppercase;
+	font-size: 15px;
+	font-weight: 400;
+	line-height: 1px;
+	color: #a3865b;
+}
+
+.container {
+	width: 1000px;
+	margin: 0 auto;
+}
+
+.sidebar {
+	width: 70%;
+	float: right;
+}
